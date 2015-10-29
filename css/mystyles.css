@@ -61,3 +61,19 @@ body {
 .navbar-inverse .navbar-nav .open .dropdown-menu> li> a:hover {
     color: #000000;
 }
+
+.checkbox {
+    color: #fff;
+}
+
+.block_button {
+    margin-top: 100px;
+}
+
+.block_button a {
+    text-decoration: none;
+}
+
+.call_color strong {
+    color: #000;
+}
